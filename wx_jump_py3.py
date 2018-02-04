@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 from PIL import Image, ImageFilter, ImageDraw
 import os
 import numpy as np
