@@ -44,6 +44,9 @@
 - 在命令行中输入adb devices查看设备状态以判断设备是否连接上且为device状态（必须）
 - 打开微信-跳一跳小游戏，点击开始游戏并跳过教学阶段
 - 运行wx_jump_py3.py即可
+Requirements:
+- sudo easy_install -f http://www.pythonware.com/products/pil/ Imaging
+- sudo pip install -U Pillow
 
 效果如图
 
